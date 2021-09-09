@@ -1,0 +1,8 @@
+Parallel execution
+
+Thread count -> number of thread you want / resource
+thread-count="2"
+
+1. Methods -> parallel test cases                     parallel="methods"
+2. Tests ->  <Test> </test> --> test tab in testng    parallel="tests"
+3. Classes -> individual test class                   parallel="classes"

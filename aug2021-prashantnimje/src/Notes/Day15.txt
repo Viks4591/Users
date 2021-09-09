@@ -1,0 +1,9 @@
+File upload
+
+AutoIT -> Spy/locate windows element, compile
+SciTE -> write autoIT scripts
+
+Write the script and save it in au3
+Compile the au3 -> .exe  -> prefer x86
+
+Runtime.getRuntime().exec(Path of .exe);

@@ -1,0 +1,16 @@
+Assertions
+
+Hard Assert
+    If Assertion fails, further code will not get executed and test case will be marked as fail
+
+SoftAssert / Verify
+    If Assertion fails, further code will get executed and test case will be marked as fail
+
+
+
+Priorities for testcases
+
+highest -> no priority
+then 0 -> 1 -> ......
+
+IF same priority -> sequence of execution will be decided from method name alphabetically
